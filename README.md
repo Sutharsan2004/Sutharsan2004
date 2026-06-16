@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sutharsan Narayanan, a B.Tech AI & Data Science student with hands-on experience in Machine Learning, NLP, Deep Learning, and Generative AI.<br>I’ve built projects involving text preprocessing, LLM-based summarization, chatbots, OCR + NLP pipelines, RAG-based systems, and CNN–RNN models for tasks like drowsiness detection.<br>I’ve also completed internships in Data Science and AI, where I worked on classification, regression, model evaluation, and transformer-based NLP tasks.<br>I love developing AI solutions that are scalable, practical, and impactful.
+I'm Sutharsan Narayanan, a B.Tech AI & Data Science enthusiast with hands-on experience in Machine Learning, NLP, Deep Learning, and Generative AI.<br>I’ve built projects involving text preprocessing, LLM-based summarization, chatbots, OCR + NLP pipelines, RAG-based systems, and CNN–RNN models for tasks like drowsiness detection.<br>I’ve also completed internships in Data Science and AI, where I worked on classification, regression, model evaluation, and transformer-based NLP tasks.<br>I love developing AI solutions that are scalable, practical, and impactful.
 
 
 ## 🌐 Socials:
